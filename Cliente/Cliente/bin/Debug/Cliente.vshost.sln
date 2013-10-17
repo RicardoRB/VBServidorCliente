@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Cliente.vshost", "Cliente.vshost.exe", "{6CF1B8E4-534E-44F9-B61E-E8F3E6005B47}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\2ºDAI\Dropbox\Proyecto 1 Evaluacion Interfaces\Cliente\Cliente\bin\Debug\Cliente.vshost.exe
+		RemoteMachine = AULA6-PC7
+		StartingDirectory = C:\Users\2ºDAI\Dropbox\Proyecto 1 Evaluacion Interfaces\Cliente\Cliente\bin\Debug
+		Environment = Predeterminado
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CF1B8E4-534E-44F9-B61E-E8F3E6005B47}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
